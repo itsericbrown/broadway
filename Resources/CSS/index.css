@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    font-family: Helvetica;
+    background-color: white;
+}
+
+div.header {
+    background-image: url("/Resources/Images/Background.png");
+    color: white;
+}
+
+.header h1 {
+    font-size: 70px;
+}
+
+.btn-nav {
+    font-size: 18px;
+    text-decoration: underline;
+    color: white;
+}
+
+h1,
+h2,
+h3 {
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+#second-head {
+    font-size: 23px;
+}
+
+.footer {
+    text-align: left;
+    background-color: dimgray;
+    color: white;
+    font-size: 11px
+}
